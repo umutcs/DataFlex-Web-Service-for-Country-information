@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayGroundASMX", "PlayGroundASMX\PlayGroundASMX.csproj", "{F959E250-5D19-43EA-B9B6-6C35F761DCB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F959E250-5D19-43EA-B9B6-6C35F761DCB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F959E250-5D19-43EA-B9B6-6C35F761DCB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F959E250-5D19-43EA-B9B6-6C35F761DCB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F959E250-5D19-43EA-B9B6-6C35F761DCB8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10FF75DE-F51C-4742-BF31-9D63F4F6ACAD}
+	EndGlobalSection
+EndGlobal
